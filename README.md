@@ -24,7 +24,7 @@ O teste mais relevante ocorreu ao submeter uma frase com polaridades opostas:
 
 | Resultado da Análise Mista | Texto Original e Mapeamento |
 | :---: | :---: |
-| ![Análise Mista](./language-mista.png) | ![Texto Misto](./language-mista-original.png) |
+| ![Análise Mista](./imagens/language-mista.png) | ![Texto Misto](./imagens/language-mista-original.png) |
 
 ---
 
@@ -35,7 +35,7 @@ O modelo respondeu com alta precisão (95% de confiança), identificando a satis
 
 | Resultado da Análise Positiva | Texto Original e Mapeamento |
 | :---: | :---: |
-| ![Análise Positiva 01](./language-positive-01.png) | ![Texto Positivo](./language-positive-original.png) |
+| ![Análise Positiva 01](./imagens/language-positive-01.png) | ![Texto Positivo](./imagens/language-positive-original.png) |
 
 ---
 
@@ -46,7 +46,7 @@ A IA classificou corretamente como **100% negativo**, demonstrando eficácia em 
 
 | Resultado da Análise Negativa |
 | :---: |
-| ![Análise Negativa](./language-negative.png) |
+| ![Análise Negativa](./imagens/language-negative.png) |
 
 ---
 
@@ -60,15 +60,17 @@ O segundo laboratório focou na geração de áudio natural utilizando a voz neu
   <video src="https://github.com/user-attachments/assets/8512224c-243f-4669-972b-639c5e4cdab2" controls="controls" width="100%">
     Seu navegador não suporta a tag de vídeo.
   </video>
+  <br>
   <em>(Vídeo demonstrativo da síntese de voz neural da Azure)</em>
 </div>
+<br>
 <br>
 
 **Configuração do Ambiente no Speech Studio:**
 
-| Resultado |
+| Interface de Configuração |
 | :---: |
-| ![Painel Speech Studio](./speech.png) |
+| ![Painel Speech Studio](./imagens/speech.png) |
 
 ---
 <div align="center">
